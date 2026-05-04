@@ -1,2 +1,0 @@
-# Git-access
-Practice git
